@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+   "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta name="dtb:uid" content="urn:uuid:296c0919-9963-415a-a386-6c26c077b931"/>
+    <meta name="dtb:depth" content="2"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+  <docTitle>
+    <text>Předkonec</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>I.</text>
+      </navLabel>
+      <content src="Text/predkonec_006.xhtml#_idParaDest-1"/>
+      <navPoint id="navPoint-2" playOrder="2">
+        <navLabel>
+          <text>V moři se vznášejí</text>
+        </navLabel>
+        <content src="Text/predkonec_007.xhtml#_idParaDest-2"/>
+      </navPoint>
+      <navPoint id="navPoint-3" playOrder="3">
+        <navLabel>
+          <text>Až k nebi sahá</text>
+        </navLabel>
+        <content src="Text/predkonec_008.xhtml#_idParaDest-3"/>
+      </navPoint>
+      <navPoint id="navPoint-4" playOrder="4">
+        <navLabel>
+          <text>Jako ve škole</text>
+        </navLabel>
+        <content src="Text/predkonec_009.xhtml#_idParaDest-4"/>
+      </navPoint>
+      <navPoint id="navPoint-5" playOrder="5">
+        <navLabel>
+          <text>Ještě dýcháš</text>
+        </navLabel>
+        <content src="Text/predkonec_010.xhtml#_idParaDest-5"/>
+      </navPoint>
+      <navPoint id="navPoint-6" playOrder="6">
+        <navLabel>
+          <text>Ne strach</text>
+        </navLabel>
+        <content src="Text/predkonec_011.xhtml#_idParaDest-6"/>
+      </navPoint>
+      <navPoint id="navPoint-7" playOrder="7">
+        <navLabel>
+          <text>Když sní</text>
+        </navLabel>
+        <content src="Text/predkonec_012.xhtml#_idParaDest-7"/>
+      </navPoint>
+      <navPoint id="navPoint-8" playOrder="8">
+        <navLabel>
+          <text>Nikdy víc</text>
+        </navLabel>
+        <content src="Text/predkonec_013.xhtml#_idParaDest-8"/>
+      </navPoint>
+      <navPoint id="navPoint-9" playOrder="9">
+        <navLabel>
+          <text>Zpívám</text>
+        </navLabel>
+        <content src="Text/predkonec_014.xhtml#_idParaDest-9"/>
+      </navPoint>
+      <navPoint id="navPoint-10" playOrder="10">
+        <navLabel>
+          <text>To prince Bajaju</text>
+        </navLabel>
+        <content src="Text/predkonec_015.xhtml#_idParaDest-10"/>
+      </navPoint>
+      <navPoint id="navPoint-11" playOrder="11">
+        <navLabel>
+          <text>Ta druhá</text>
+        </navLabel>
+        <content src="Text/predkonec_016.xhtml#_idParaDest-11"/>
+      </navPoint>
+      <navPoint id="navPoint-12" playOrder="12">
+        <navLabel>
+          <text>Ta třetí umírá</text>
+        </navLabel>
+        <content src="Text/predkonec_017.xhtml#_idParaDest-12"/>
+      </navPoint>
+      <navPoint id="navPoint-13" playOrder="13">
+        <navLabel>
+          <text>Ta chromá</text>
+        </navLabel>
+        <content src="Text/predkonec_018.xhtml#_idParaDest-13"/>
+      </navPoint>
+      <navPoint id="navPoint-14" playOrder="14">
+        <navLabel>
+          <text>Jiná stará</text>
+        </navLabel>
+        <content src="Text/predkonec_019.xhtml#_idParaDest-14"/>
+      </navPoint>
+      <navPoint id="navPoint-15" playOrder="15">
+        <navLabel>
+          <text>Miloval ji</text>
+        </navLabel>
+        <content src="Text/predkonec_020.xhtml#_idParaDest-15"/>
+      </navPoint>
+      <navPoint id="navPoint-16" playOrder="16">
+        <navLabel>
+          <text>V pětačtyřiceti</text>
+        </navLabel>
+        <content src="Text/predkonec_021.xhtml#_idParaDest-16"/>
+      </navPoint>
+      <navPoint id="navPoint-17" playOrder="17">
+        <navLabel>
+          <text>Stařec v posledním tažení</text>
+        </navLabel>
+        <content src="Text/predkonec_022.xhtml#_idParaDest-17"/>
+      </navPoint>
+      <navPoint id="navPoint-18" playOrder="18">
+        <navLabel>
+          <text>Tolik křížů</text>
+        </navLabel>
+        <content src="Text/predkonec_023.xhtml#_idParaDest-18"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-19" playOrder="19">
+      <navLabel>
+        <text>II.</text>
+      </navLabel>
+      <content src="Text/predkonec_024.xhtml#_idParaDest-19"/>
+      <navPoint id="navPoint-20" playOrder="20">
+        <navLabel>
+          <text>Jak se otloukají</text>
+        </navLabel>
+        <content src="Text/predkonec_025.xhtml#_idParaDest-20"/>
+      </navPoint>
+      <navPoint id="navPoint-21" playOrder="21">
+        <navLabel>
+          <text>Nejdřív je to jen tlak</text>
+        </navLabel>
+        <content src="Text/predkonec_026.xhtml#_idParaDest-21"/>
+      </navPoint>
+      <navPoint id="navPoint-22" playOrder="22">
+        <navLabel>
+          <text>Můžem se dohadovat</text>
+        </navLabel>
+        <content src="Text/predkonec_027.xhtml#_idParaDest-22"/>
+      </navPoint>
+      <navPoint id="navPoint-23" playOrder="23">
+        <navLabel>
+          <text>Je to ta s klepety</text>
+        </navLabel>
+        <content src="Text/predkonec_028.xhtml#_idParaDest-23"/>
+      </navPoint>
+      <navPoint id="navPoint-24" playOrder="24">
+        <navLabel>
+          <text>Jednou to přijde</text>
+        </navLabel>
+        <content src="Text/predkonec_029.xhtml#_idParaDest-24"/>
+      </navPoint>
+      <navPoint id="navPoint-25" playOrder="25">
+        <navLabel>
+          <text>Zbývají ti</text>
+        </navLabel>
+        <content src="Text/predkonec_030.xhtml#_idParaDest-25"/>
+      </navPoint>
+      <navPoint id="navPoint-26" playOrder="26">
+        <navLabel>
+          <text>Vždycky ses se mnou</text>
+        </navLabel>
+        <content src="Text/predkonec_031.xhtml#_idParaDest-26"/>
+      </navPoint>
+      <navPoint id="navPoint-27" playOrder="27">
+        <navLabel>
+          <text>Spálili ti</text>
+        </navLabel>
+        <content src="Text/predkonec_032.xhtml#_idParaDest-27"/>
+      </navPoint>
+      <navPoint id="navPoint-28" playOrder="28">
+        <navLabel>
+          <text>Nebraň se</text>
+        </navLabel>
+        <content src="Text/predkonec_033.xhtml#_idParaDest-28"/>
+      </navPoint>
+      <navPoint id="navPoint-29" playOrder="29">
+        <navLabel>
+          <text>Přemýšlíš nebo sníš</text>
+        </navLabel>
+        <content src="Text/predkonec_034.xhtml#_idParaDest-29"/>
+      </navPoint>
+      <navPoint id="navPoint-30" playOrder="30">
+        <navLabel>
+          <text>Svět ti ubíhá do kopce</text>
+        </navLabel>
+        <content src="Text/predkonec_035.xhtml#_idParaDest-30"/>
+      </navPoint>
+      <navPoint id="navPoint-31" playOrder="31">
+        <navLabel>
+          <text>Světlo stahované nad stůl</text>
+        </navLabel>
+        <content src="Text/predkonec_036.xhtml#_idParaDest-31"/>
+      </navPoint>
+      <navPoint id="navPoint-32" playOrder="32">
+        <navLabel>
+          <text>Nemohu ti to oplatit</text>
+        </navLabel>
+        <content src="Text/predkonec_037.xhtml#_idParaDest-32"/>
+      </navPoint>
+      <navPoint id="navPoint-33" playOrder="33">
+        <navLabel>
+          <text>Cukroví jsme doma</text>
+        </navLabel>
+        <content src="Text/predkonec_038.xhtml#_idParaDest-33"/>
+      </navPoint>
+      <navPoint id="navPoint-34" playOrder="34">
+        <navLabel>
+          <text>Tenkrát býval sníh fajn</text>
+        </navLabel>
+        <content src="Text/predkonec_039.xhtml#_idParaDest-34"/>
+      </navPoint>
+      <navPoint id="navPoint-35" playOrder="35">
+        <navLabel>
+          <text>Nad láskou</text>
+        </navLabel>
+        <content src="Text/predkonec_040.xhtml#_idParaDest-35"/>
+      </navPoint>
+      <navPoint id="navPoint-36" playOrder="36">
+        <navLabel>
+          <text>Chtěl by ses vrátit</text>
+        </navLabel>
+        <content src="Text/predkonec_041.xhtml#_idParaDest-36"/>
+      </navPoint>
+      <navPoint id="navPoint-37" playOrder="37">
+        <navLabel>
+          <text>Nevyznáš se</text>
+        </navLabel>
+        <content src="Text/predkonec_042.xhtml#_idParaDest-37"/>
+      </navPoint>
+      <navPoint id="navPoint-38" playOrder="38">
+        <navLabel>
+          <text>Řekls mi</text>
+        </navLabel>
+        <content src="Text/predkonec_043.xhtml#_idParaDest-38"/>
+      </navPoint>
+      <navPoint id="navPoint-39" playOrder="39">
+        <navLabel>
+          <text>Na postelích</text>
+        </navLabel>
+        <content src="Text/predkonec_044.xhtml#_idParaDest-39"/>
+      </navPoint>
+      <navPoint id="navPoint-40" playOrder="40">
+        <navLabel>
+          <text>Soumrak v pokoji</text>
+        </navLabel>
+        <content src="Text/predkonec_045.xhtml#_idParaDest-40"/>
+      </navPoint>
+      <navPoint id="navPoint-41" playOrder="41">
+        <navLabel>
+          <text>Už nepromluví</text>
+        </navLabel>
+        <content src="Text/predkonec_046.xhtml#_idParaDest-41"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-42" playOrder="42">
+      <navLabel>
+        <text>III.</text>
+      </navLabel>
+      <content src="Text/predkonec_047.xhtml#_idParaDest-42"/>
+      <navPoint id="navPoint-43" playOrder="43">
+        <navLabel>
+          <text>Jak se lekáme</text>
+        </navLabel>
+        <content src="Text/predkonec_048.xhtml#_idParaDest-43"/>
+      </navPoint>
+      <navPoint id="navPoint-44" playOrder="44">
+        <navLabel>
+          <text>Jen si sedněte</text>
+        </navLabel>
+        <content src="Text/predkonec_049.xhtml#_idParaDest-44"/>
+      </navPoint>
+      <navPoint id="navPoint-45" playOrder="45">
+        <navLabel>
+          <text>Byl jsi ochořelý</text>
+        </navLabel>
+        <content src="Text/predkonec_049.xhtml#_idParaDest-45"/>
+      </navPoint>
+      <navPoint id="navPoint-46" playOrder="46">
+        <navLabel>
+          <text>I naše děti šedivějí</text>
+        </navLabel>
+        <content src="Text/predkonec_050.xhtml#_idParaDest-46"/>
+      </navPoint>
+      <navPoint id="navPoint-47" playOrder="47">
+        <navLabel>
+          <text>Každé léto</text>
+        </navLabel>
+        <content src="Text/predkonec_051.xhtml#_idParaDest-47"/>
+      </navPoint>
+      <navPoint id="navPoint-48" playOrder="48">
+        <navLabel>
+          <text>V noci</text>
+        </navLabel>
+        <content src="Text/predkonec_052.xhtml#_idParaDest-48"/>
+      </navPoint>
+      <navPoint id="navPoint-49" playOrder="49">
+        <navLabel>
+          <text>Naschvál jsem si nevšímala</text>
+        </navLabel>
+        <content src="Text/predkonec_053.xhtml#_idParaDest-49"/>
+      </navPoint>
+      <navPoint id="navPoint-50" playOrder="50">
+        <navLabel>
+          <text>Jak si nás značkuje</text>
+        </navLabel>
+        <content src="Text/predkonec_054.xhtml#_idParaDest-50"/>
+      </navPoint>
+      <navPoint id="navPoint-51" playOrder="51">
+        <navLabel>
+          <text>A jak jsou pilné</text>
+        </navLabel>
+        <content src="Text/predkonec_055.xhtml#_idParaDest-51"/>
+      </navPoint>
+      <navPoint id="navPoint-52" playOrder="52">
+        <navLabel>
+          <text>Tak nepodobné</text>
+        </navLabel>
+        <content src="Text/predkonec_056.xhtml#_idParaDest-52"/>
+      </navPoint>
+      <navPoint id="navPoint-53" playOrder="53">
+        <navLabel>
+          <text>Tvá dcera to zvládla</text>
+        </navLabel>
+        <content src="Text/predkonec_057.xhtml#_idParaDest-53"/>
+      </navPoint>
+      <navPoint id="navPoint-54" playOrder="54">
+        <navLabel>
+          <text>Tak docela nevíme</text>
+        </navLabel>
+        <content src="Text/predkonec_058.xhtml#_idParaDest-54"/>
+      </navPoint>
+      <navPoint id="navPoint-55" playOrder="55">
+        <navLabel>
+          <text>Náhle</text>
+        </navLabel>
+        <content src="Text/predkonec_059.xhtml#_idParaDest-55"/>
+      </navPoint>
+      <navPoint id="navPoint-56" playOrder="56">
+        <navLabel>
+          <text>V sedadle sesedlé</text>
+        </navLabel>
+        <content src="Text/predkonec_060.xhtml#_idParaDest-56"/>
+      </navPoint>
+      <navPoint id="navPoint-57" playOrder="57">
+        <navLabel>
+          <text>Takové divné dění</text>
+        </navLabel>
+        <content src="Text/predkonec_061.xhtml#_idParaDest-57"/>
+      </navPoint>
+      <navPoint id="navPoint-58" playOrder="58">
+        <navLabel>
+          <text>Hlava dívky</text>
+        </navLabel>
+        <content src="Text/predkonec_062.xhtml#_idParaDest-58"/>
+      </navPoint>
+      <navPoint id="navPoint-59" playOrder="59">
+        <navLabel>
+          <text>Bráníte se</text>
+        </navLabel>
+        <content src="Text/predkonec_063.xhtml#_idParaDest-59"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-60" playOrder="60">
+      <navLabel>
+        <text>IV.</text>
+      </navLabel>
+      <content src="Text/predkonec_064.xhtml#_idParaDest-60"/>
+      <navPoint id="navPoint-61" playOrder="61">
+        <navLabel>
+          <text>Bože</text>
+        </navLabel>
+        <content src="Text/predkonec_065.xhtml#_idParaDest-61"/>
+      </navPoint>
+      <navPoint id="navPoint-62" playOrder="62">
+        <navLabel>
+          <text>Taky jsme přibíjeli</text>
+        </navLabel>
+        <content src="Text/predkonec_066.xhtml#_idParaDest-62"/>
+      </navPoint>
+      <navPoint id="navPoint-63" playOrder="63">
+        <navLabel>
+          <text>Večer před Velkým pátkem</text>
+        </navLabel>
+        <content src="Text/predkonec_067.xhtml#_idParaDest-63"/>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>

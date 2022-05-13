@@ -1,0 +1,578 @@
+{
+  "@context": "https://readium.org/webpub-manifest/context.jsonld",
+  "metadata": {
+    "@type": "http://schema.org/Book",
+    "title": "Předkonec",
+    "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
+    "author": "Viola Fischerová",
+    "publisher": "Městská knihovna v Praze",
+    "language": "cs-CZ",
+    "modified": "2021-01-19T00:00:00.000Z",
+    "published": "2021-01-18T08:33:35.000Z",
+    "subject": "subject",
+    "generator": "Adobe InDesign 15.1.2",
+    "Sigil version": "0.9.9"
+  },
+  "readingOrder": [
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/predkonec_001.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/predkonec_002.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/predkonec_003.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/predkonec_004.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/predkonec_005.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/predkonec_006.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/predkonec_007.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/predkonec_008.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/predkonec_009.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/predkonec_010.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/predkonec_011.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/predkonec_012.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/predkonec_013.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/predkonec_014.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/predkonec_015.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/predkonec_016.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/predkonec_017.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/predkonec_018.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/predkonec_019.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/predkonec_020.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/predkonec_021.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/predkonec_022.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/predkonec_023.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/predkonec_024.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/predkonec_025.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/predkonec_026.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/predkonec_027.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/predkonec_028.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/predkonec_029.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/predkonec_030.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/predkonec_031.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/predkonec_032.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/predkonec_033.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/predkonec_034.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/predkonec_035.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/predkonec_036.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/predkonec_037.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/predkonec_038.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/predkonec_039.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/predkonec_040.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/predkonec_041.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/predkonec_042.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/predkonec_043.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/predkonec_044.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/predkonec_045.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/predkonec_046.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/predkonec_047.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/predkonec_048.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/predkonec_049.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/predkonec_050.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/predkonec_051.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/predkonec_052.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/predkonec_053.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/predkonec_054.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/predkonec_055.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/predkonec_056.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/predkonec_057.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/predkonec_058.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/predkonec_059.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/predkonec_060.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/predkonec_061.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/predkonec_062.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/predkonec_063.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/predkonec_064.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/predkonec_065.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/predkonec_066.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/predkonec_067.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/predkonec_068.xhtml"
+    }
+  ],
+  "resources": [
+    {
+      "type": "application/x-dtbncx+xml",
+      "href": "OEBPS/toc.ncx"
+    },
+    {
+      "type": "text/css",
+      "href": "OEBPS/Styles/idGeneratedStyles.css"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/image001.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/image002.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/obalka_predkonec.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/upoutavka_eknihy.jpg"
+    }
+  ],
+  "toc": [
+    {
+      "title": "I.",
+      "children": [
+        {
+          "title": "V moři se vznášejí",
+          "href": "OEBPS/Text/predkonec_007.xhtml#_idParaDest-2"
+        },
+        {
+          "title": "Až k nebi sahá",
+          "href": "OEBPS/Text/predkonec_008.xhtml#_idParaDest-3"
+        },
+        {
+          "title": "Jako ve škole",
+          "href": "OEBPS/Text/predkonec_009.xhtml#_idParaDest-4"
+        },
+        {
+          "title": "Ještě dýcháš",
+          "href": "OEBPS/Text/predkonec_010.xhtml#_idParaDest-5"
+        },
+        {
+          "title": "Ne strach",
+          "href": "OEBPS/Text/predkonec_011.xhtml#_idParaDest-6"
+        },
+        {
+          "title": "Když sní",
+          "href": "OEBPS/Text/predkonec_012.xhtml#_idParaDest-7"
+        },
+        {
+          "title": "Nikdy víc",
+          "href": "OEBPS/Text/predkonec_013.xhtml#_idParaDest-8"
+        },
+        {
+          "title": "Zpívám",
+          "href": "OEBPS/Text/predkonec_014.xhtml#_idParaDest-9"
+        },
+        {
+          "title": "To prince Bajaju",
+          "href": "OEBPS/Text/predkonec_015.xhtml#_idParaDest-10"
+        },
+        {
+          "title": "Ta druhá",
+          "href": "OEBPS/Text/predkonec_016.xhtml#_idParaDest-11"
+        },
+        {
+          "title": "Ta třetí umírá",
+          "href": "OEBPS/Text/predkonec_017.xhtml#_idParaDest-12"
+        },
+        {
+          "title": "Ta chromá",
+          "href": "OEBPS/Text/predkonec_018.xhtml#_idParaDest-13"
+        },
+        {
+          "title": "Jiná stará",
+          "href": "OEBPS/Text/predkonec_019.xhtml#_idParaDest-14"
+        },
+        {
+          "title": "Miloval ji",
+          "href": "OEBPS/Text/predkonec_020.xhtml#_idParaDest-15"
+        },
+        {
+          "title": "V pětačtyřiceti",
+          "href": "OEBPS/Text/predkonec_021.xhtml#_idParaDest-16"
+        },
+        {
+          "title": "Stařec v posledním tažení",
+          "href": "OEBPS/Text/predkonec_022.xhtml#_idParaDest-17"
+        },
+        {
+          "title": "Tolik křížů",
+          "href": "OEBPS/Text/predkonec_023.xhtml#_idParaDest-18"
+        }
+      ],
+      "href": "OEBPS/Text/predkonec_006.xhtml#_idParaDest-1"
+    },
+    {
+      "title": "II.",
+      "children": [
+        {
+          "title": "Jak se otloukají",
+          "href": "OEBPS/Text/predkonec_025.xhtml#_idParaDest-20"
+        },
+        {
+          "title": "Nejdřív je to jen tlak",
+          "href": "OEBPS/Text/predkonec_026.xhtml#_idParaDest-21"
+        },
+        {
+          "title": "Můžem se dohadovat",
+          "href": "OEBPS/Text/predkonec_027.xhtml#_idParaDest-22"
+        },
+        {
+          "title": "Je to ta s klepety",
+          "href": "OEBPS/Text/predkonec_028.xhtml#_idParaDest-23"
+        },
+        {
+          "title": "Jednou to přijde",
+          "href": "OEBPS/Text/predkonec_029.xhtml#_idParaDest-24"
+        },
+        {
+          "title": "Zbývají ti",
+          "href": "OEBPS/Text/predkonec_030.xhtml#_idParaDest-25"
+        },
+        {
+          "title": "Vždycky ses se mnou",
+          "href": "OEBPS/Text/predkonec_031.xhtml#_idParaDest-26"
+        },
+        {
+          "title": "Spálili ti",
+          "href": "OEBPS/Text/predkonec_032.xhtml#_idParaDest-27"
+        },
+        {
+          "title": "Nebraň se",
+          "href": "OEBPS/Text/predkonec_033.xhtml#_idParaDest-28"
+        },
+        {
+          "title": "Přemýšlíš nebo sníš",
+          "href": "OEBPS/Text/predkonec_034.xhtml#_idParaDest-29"
+        },
+        {
+          "title": "Svět ti ubíhá do kopce",
+          "href": "OEBPS/Text/predkonec_035.xhtml#_idParaDest-30"
+        },
+        {
+          "title": "Světlo stahované nad stůl",
+          "href": "OEBPS/Text/predkonec_036.xhtml#_idParaDest-31"
+        },
+        {
+          "title": "Nemohu ti to oplatit",
+          "href": "OEBPS/Text/predkonec_037.xhtml#_idParaDest-32"
+        },
+        {
+          "title": "Cukroví jsme doma",
+          "href": "OEBPS/Text/predkonec_038.xhtml#_idParaDest-33"
+        },
+        {
+          "title": "Tenkrát býval sníh fajn",
+          "href": "OEBPS/Text/predkonec_039.xhtml#_idParaDest-34"
+        },
+        {
+          "title": "Nad láskou",
+          "href": "OEBPS/Text/predkonec_040.xhtml#_idParaDest-35"
+        },
+        {
+          "title": "Chtěl by ses vrátit",
+          "href": "OEBPS/Text/predkonec_041.xhtml#_idParaDest-36"
+        },
+        {
+          "title": "Nevyznáš se",
+          "href": "OEBPS/Text/predkonec_042.xhtml#_idParaDest-37"
+        },
+        {
+          "title": "Řekls mi",
+          "href": "OEBPS/Text/predkonec_043.xhtml#_idParaDest-38"
+        },
+        {
+          "title": "Na postelích",
+          "href": "OEBPS/Text/predkonec_044.xhtml#_idParaDest-39"
+        },
+        {
+          "title": "Soumrak v pokoji",
+          "href": "OEBPS/Text/predkonec_045.xhtml#_idParaDest-40"
+        },
+        {
+          "title": "Už nepromluví",
+          "href": "OEBPS/Text/predkonec_046.xhtml#_idParaDest-41"
+        }
+      ],
+      "href": "OEBPS/Text/predkonec_024.xhtml#_idParaDest-19"
+    },
+    {
+      "title": "III.",
+      "children": [
+        {
+          "title": "Jak se lekáme",
+          "href": "OEBPS/Text/predkonec_048.xhtml#_idParaDest-43"
+        },
+        {
+          "title": "Jen si sedněte",
+          "href": "OEBPS/Text/predkonec_049.xhtml#_idParaDest-44"
+        },
+        {
+          "title": "Byl jsi ochořelý",
+          "href": "OEBPS/Text/predkonec_049.xhtml#_idParaDest-45"
+        },
+        {
+          "title": "I naše děti šedivějí",
+          "href": "OEBPS/Text/predkonec_050.xhtml#_idParaDest-46"
+        },
+        {
+          "title": "Každé léto",
+          "href": "OEBPS/Text/predkonec_051.xhtml#_idParaDest-47"
+        },
+        {
+          "title": "V noci",
+          "href": "OEBPS/Text/predkonec_052.xhtml#_idParaDest-48"
+        },
+        {
+          "title": "Naschvál jsem si nevšímala",
+          "href": "OEBPS/Text/predkonec_053.xhtml#_idParaDest-49"
+        },
+        {
+          "title": "Jak si nás značkuje",
+          "href": "OEBPS/Text/predkonec_054.xhtml#_idParaDest-50"
+        },
+        {
+          "title": "A jak jsou pilné",
+          "href": "OEBPS/Text/predkonec_055.xhtml#_idParaDest-51"
+        },
+        {
+          "title": "Tak nepodobné",
+          "href": "OEBPS/Text/predkonec_056.xhtml#_idParaDest-52"
+        },
+        {
+          "title": "Tvá dcera to zvládla",
+          "href": "OEBPS/Text/predkonec_057.xhtml#_idParaDest-53"
+        },
+        {
+          "title": "Tak docela nevíme",
+          "href": "OEBPS/Text/predkonec_058.xhtml#_idParaDest-54"
+        },
+        {
+          "title": "Náhle",
+          "href": "OEBPS/Text/predkonec_059.xhtml#_idParaDest-55"
+        },
+        {
+          "title": "V sedadle sesedlé",
+          "href": "OEBPS/Text/predkonec_060.xhtml#_idParaDest-56"
+        },
+        {
+          "title": "Takové divné dění",
+          "href": "OEBPS/Text/predkonec_061.xhtml#_idParaDest-57"
+        },
+        {
+          "title": "Hlava dívky",
+          "href": "OEBPS/Text/predkonec_062.xhtml#_idParaDest-58"
+        },
+        {
+          "title": "Bráníte se",
+          "href": "OEBPS/Text/predkonec_063.xhtml#_idParaDest-59"
+        }
+      ],
+      "href": "OEBPS/Text/predkonec_047.xhtml#_idParaDest-42"
+    },
+    {
+      "title": "IV.",
+      "children": [
+        {
+          "title": "Bože",
+          "href": "OEBPS/Text/predkonec_065.xhtml#_idParaDest-61"
+        },
+        {
+          "title": "Taky jsme přibíjeli",
+          "href": "OEBPS/Text/predkonec_066.xhtml#_idParaDest-62"
+        },
+        {
+          "title": "Večer před Velkým pátkem",
+          "href": "OEBPS/Text/predkonec_067.xhtml#_idParaDest-63"
+        }
+      ],
+      "href": "OEBPS/Text/predkonec_064.xhtml#_idParaDest-60"
+    }
+  ]
+}
