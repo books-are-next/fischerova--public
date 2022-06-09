@@ -9,14 +9,14 @@ Nebraň se
 tvá skvělá levá hemisféra  
 narazila
 
-> Zbývá ta pravá  
-> otevřená  
-> pro tvého Mahlera  
-> a Bacha
+_Zbývá ta pravá  
+otevřená  
+pro tvého Mahlera  
+a Bacha_
 
-> pro jiné vzorce  
-> existence
+_pro jiné vzorce  
+existence_
 
-> Chceš je snad popřít?
+_Chceš je snad popřít?_
 
-> Stejně jako Boha?
+_Stejně jako Boha?_

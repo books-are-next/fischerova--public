@@ -8,14 +8,14 @@ contentType: prose
 Jak se lekáme  
 když vyletí kámen
 
-> těch kruhů na hladině  
-> než doskáče
+_těch kruhů na hladině  
+než doskáče_
 
-> Obraz co se mine  
-> a nikomu nechybí
+_Obraz co se mine  
+a nikomu nechybí_
 
-> Uzavřená  
-> zrcadlí voda  
-> nebe a klid
+_Uzavřená  
+zrcadlí voda  
+nebe a klid_
 
-> A zas je po smrti
+_A zas je po smrti_

@@ -10,14 +10,14 @@ sobě ve dvaceti —
 až nás ani dávná láska  
 nepozná
 
-> Kdo byly ty hezké holky  
-> a kdo jsme  
-> my
+_Kdo byly ty hezké holky  
+a kdo jsme  
+my_
 
-> A bude hůř  
-> s tím obličejem  
-> stařen matek  
-> z fotografií
+_A bude hůř  
+s tím obličejem  
+stařen matek  
+z fotografií_
 
-> napůl — neznámá bába  
-> napůl — známý děd
+_napůl — neznámá bába  
+napůl — známý děd_

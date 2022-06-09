@@ -3,27 +3,29 @@ title: ''
 contentType: prose
 ---
 
-_Rezce_
+> 
+
+> _Rezce_
 
 Ne strach  
 už osud  
 poodkrytá roura
 
-> Nemáš parkinsona  
-> je to prý  
-> degenerativní nervové onemocnění
+_Nemáš parkinsona  
+je to prý  
+degenerativní nervové onemocnění_
 
-> Těžce vyslovuješ  
-> kameníš  
-> máš závratě až padáš
+_Těžce vyslovuješ  
+kameníš  
+máš závratě až padáš_
 
-> nalomila sis ruku  
-> rozbila hlavu  
-> a pořezala záda
+_nalomila sis ruku  
+rozbila hlavu  
+a pořezala záda_
 
-> Takhle se ale nezabiješ  
-> Ani sama ne  
-> K tomu ti chybí odvaha  
-> řeklas
+_Takhle se ale nezabiješ  
+Ani sama ne  
+K tomu ti chybí odvaha  
+řeklas_
 
-> s tím srdcem — jako zvon
+_s tím srdcem — jako zvon_

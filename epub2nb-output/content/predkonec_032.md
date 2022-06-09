@@ -10,15 +10,15 @@ půlku smrti
 Nosíš ji v sobě  
 zraněnou nesmrtelnou
 
-> Dřív než ji odkopneš  
-> i s tělem  
-> mysli na toho kněze  
-> přírodovědce
+_Dřív než ji odkopneš  
+i s tělem  
+mysli na toho kněze  
+přírodovědce_
 
-> co napsal o zázraku  
-> stvoření
+_co napsal o zázraku  
+stvoření_
 
-> Jak jsi mínil  
-> že až na to modlení
+_Jak jsi mínil  
+že až na to modlení_
 
-> má pravdu
+_má pravdu_

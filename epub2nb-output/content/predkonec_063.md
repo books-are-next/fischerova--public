@@ -8,8 +8,8 @@ contentType: prose
 Bráníte se  
 Ty verše jsou kruté
 
-> Bráním se  
-> Jde o bilanci  
-> a účet
+_Bráním se  
+Jde o bilanci  
+a účet_
 
-> Je lepší vědět
+_Je lepší vědět_

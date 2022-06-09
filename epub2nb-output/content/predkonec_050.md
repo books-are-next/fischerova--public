@@ -7,15 +7,15 @@ contentType: prose
 
 I naše děti šedivějí
 
-> V ulicích prázdné rysy zdí  
-> z kdysi —  
-> už bez dávna
+_V ulicích prázdné rysy zdí  
+z kdysi —  
+už bez dávna_
 
-> Není koho se ptát  
-> kde je hospoda  
-> kam chodívám s otcem
+_Není koho se ptát  
+kde je hospoda  
+kam chodívám s otcem_
 
-> dveře ke staré paní  
-> která se uměla modlit  
-> a věřila  
-> na nebolestnou smrt
+_dveře ke staré paní  
+která se uměla modlit  
+a věřila  
+na nebolestnou smrt_

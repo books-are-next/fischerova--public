@@ -10,12 +10,12 @@ ty staré holky
 se slovníky  
 a počítači
 
-> v kapse na břiše  
-> dva tři vnuky  
-> ráno poskakují  
-> večer se plazí
+_v kapse na břiše  
+dva tři vnuky  
+ráno poskakují  
+večer se plazí_
 
-> a za nocí  
-> si tisknou k tváři  
-> tu krásnou fotku  
-> své zmizelé lásky
+_a za nocí  
+si tisknou k tváři  
+tu krásnou fotku  
+své zmizelé lásky_

@@ -9,25 +9,25 @@ Ta třetí umírá
 s otevřenýma nohama  
 Sama
 
-> Muž nechtěl děti  
-> ty dvě jí vyškrabal  
-> jehlicemi
+_Muž nechtěl děti  
+ty dvě jí vyškrabal  
+jehlicemi_
 
-> Podruhé ji zachránil penicilin  
-> doktor co k ní denně chodil  
-> a neoznámil to
+_Podruhé ji zachránil penicilin  
+doktor co k ní denně chodil  
+a neoznámil to_
 
-> Říká  
-> že byla v životě  
-> čtyři dny  
-> opravdu šťastná
+_Říká  
+že byla v životě  
+čtyři dny  
+opravdu šťastná_
 
-> Na horách zjara  
-> louka z půlky sníh  
-> z půlky sněženky
+_Na horách zjara  
+louka z půlky sníh  
+z půlky sněženky_
 
-> I on byl jiný  
-> po mrtvici
+_I on byl jiný  
+po mrtvici_
 
-> Ty čtyři dny  
-> byla s ním
+_Ty čtyři dny  
+byla s ním_

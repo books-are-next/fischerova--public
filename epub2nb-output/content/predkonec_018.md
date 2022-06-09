@@ -11,11 +11,11 @@ pořád naříká
 že jí muž nikdy nepodá  
 oč ho tolikrát prosila
 
-> On bezradně slzí  
-> Zase už neví  
-> ačkoliv chce
+_On bezradně slzí  
+Zase už neví  
+ačkoliv chce_
 
-> Jejich divoká psice  
-> za nocí pláče  
-> Ve dne poslušně tlape  
-> u každé cizí nohy
+_Jejich divoká psice  
+za nocí pláče  
+Ve dne poslušně tlape  
+u každé cizí nohy_

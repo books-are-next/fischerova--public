@@ -3,58 +3,60 @@ title: ''
 contentType: prose
 ---
 
-_Mojmírovi_
+> 
+
+> _Mojmírovi_
 
 Jen si sedněte  
 na pohřební hostině  
 k těm kteří jsou:
 
-> rozvedenou manželkou  
-> obtížnou tchyní  
-> lačným synovcem  
-> lhostejnou švagrovou  
-> a stejnou dcerou
+_rozvedenou manželkou  
+obtížnou tchyní  
+lačným synovcem  
+lhostejnou švagrovou  
+a stejnou dcerou_
 
-> Pojezte s nimi  
-> za mrtvého  
-> a pijte!
+_Pojezte s nimi  
+za mrtvého  
+a pijte!_
 
-> Pak se dozvíte:  
-> o co se zraňovala žena  
-> po čem toužila tchyně  
-> jak měl synovec před sebou  
-> bratra i otce  
-> a ta dívka  
-> je uplakané dítě
+_Pak se dozvíte:  
+o co se zraňovala žena  
+po čem toužila tchyně  
+jak měl synovec před sebou  
+bratra i otce  
+a ta dívka  
+je uplakané dítě_
 
-> Shledáte:  
-> Že krev není voda  
-> ani jed
+_Shledáte:  
+Že krev není voda  
+ani jed_
 
-> A spor o ten barák  
-> že byl holé neštěstí
+_A spor o ten barák  
+že byl holé neštěstí_
 
 Byl jsi ochořelý  
 tenká výseč v hlavě  
 i v srdci
 
-> Sám sobě  
-> Robinson a Pátek  
-> na ostrově
+_Sám sobě  
+Robinson a Pátek  
+na ostrově_
 
-> Já se s tím brácho  
-> mohla srovnat
+_Já se s tím brácho  
+mohla srovnat_
 
-> Ale tvá žena  
-> — první i druhá —  
-> a zbytek milenek?
+_Ale tvá žena  
+— první i druhá —  
+a zbytek milenek?_
 
-> Teď po hospodách  
-> přebíráme mák hrách  
-> a žal co tě přežil
+_Teď po hospodách  
+přebíráme mák hrách  
+a žal co tě přežil_
 
-> Co jsi byl  
-> i nebyl
+_Co jsi byl  
+i nebyl_
 
-> Co ti chtěly dát  
-> a co jsi nepřijal
+_Co ti chtěly dát  
+a co jsi nepřijal_

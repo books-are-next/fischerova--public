@@ -10,22 +10,22 @@ sám v sobě
 Chceš odstrčit tělo  
 a povzbuzuješ srdce
 
-> Jsi na dně  
-> Žere tě  
-> hlísta v plících
+_Jsi na dně  
+Žere tě  
+hlísta v plících_
 
-> jen jedny teplé ponožky  
-> a potom zas dvoje  
-> a taky že nemůžeš číst
+_jen jedny teplé ponožky  
+a potom zas dvoje  
+a taky že nemůžeš číst_
 
-> Namluvila jsem ti  
-> zprávy mrtvých  
-> kterým se nechtělo  
-> ze světla
+_Namluvila jsem ti  
+zprávy mrtvých  
+kterým se nechtělo  
+ze světla_
 
-> Zasyčels  
-> že nechceš nic
+_Zasyčels  
+že nechceš nic_
 
-> Ne nic?
+_Ne nic?_
 
-> Ty kazety sis nechal
+_Ty kazety sis nechal_

@@ -3,31 +3,33 @@ title: ''
 contentType: prose
 ---
 
-_Herbertu Ernstovi_
+> 
+
+> _Herbertu Ernstovi_
 
 V pětačtyřiceti  
 mu začaly odcházet klouby
 
-> S devíti jazyky  
-> měl mezi srbskými kulkami  
-> posbírat  
-> kdo se dá ještě opravit
+_S devíti jazyky  
+měl mezi srbskými kulkami  
+posbírat  
+kdo se dá ještě opravit_
 
-> Když od tří set činovníků  
-> chtěl pro chlapce  
-> s pažemi za sedmdesát tisíc  
-> už jen pár desetin
+_Když od tří set činovníků  
+chtěl pro chlapce  
+s pažemi za sedmdesát tisíc  
+už jen pár desetin_
 
-> — z jejich kapsy —  
-> aby se oživily  
-> uťaté nervy
+_— z jejich kapsy —  
+aby se oživily  
+uťaté nervy_
 
-> a nedostal ani frank  
-> rozplakal se  
-> a poslal je do prdele
+_a nedostal ani frank  
+rozplakal se  
+a poslal je do prdele_
 
-> Vyletěl — spravedlivý  
-> co na nich stojí svět
+_Vyletěl — spravedlivý  
+co na nich stojí svět_
 
-> V pětapadesáti  
-> se nepohne
+_V pětapadesáti  
+se nepohne_

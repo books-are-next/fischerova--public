@@ -9,11 +9,11 @@ Přemýšlíš nebo sníš
 nad snímkem  
 toho andělského děcka
 
-> co klukům k uzmutým hračkám  
-> přineslo další  
-> a nežalovalo ani s tváří  
-> rozťatou prutem
+_co klukům k uzmutým hračkám  
+přineslo další  
+a nežalovalo ani s tváří  
+rozťatou prutem_
 
-> nemůžeš si vrátit  
-> co jsi tak brzy tušil  
-> o milosti?
+_nemůžeš si vrátit  
+co jsi tak brzy tušil  
+o milosti?_

@@ -10,11 +10,11 @@ jedli jsme zakázané
 a vyhnaní v hříchu  
 žili krvavě
 
-> Té podřezané úzkosti a hrůzy  
-> co jsme spolykali
+_Té podřezané úzkosti a hrůzy  
+co jsme spolykali_
 
-> z Boží milosti  
-> ze svobodné vůle  
-> všehopáni
+_z Boží milosti  
+ze svobodné vůle  
+všehopáni_
 
-> A teď jsme na řadě
+_A teď jsme na řadě_

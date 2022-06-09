@@ -3,24 +3,26 @@ title: ''
 contentType: prose
 ---
 
-_Joskovi a Bohunce_
+> 
+
+> _Joskovi a Bohunce_
 
 Ještě dýcháš  
 a už jsi cizí  
 nehybné tělo na posteli  
 jež spí a už se neprobouzí
 
-> Kde jsi tam kdesi  
-> že se nenavracíš  
-> za hlavou smrt  
-> v nohou lásku  
-> co prosí
+_Kde jsi tam kdesi  
+že se nenavracíš  
+za hlavou smrt  
+v nohou lásku  
+co prosí_
 
-> u brány s úzkými dveřmi
+_u brány s úzkými dveřmi_
 
-> „Vrať mi ho Pane  
-> nebo vezmi  
-> dovnitř
+_„Vrať mi ho Pane  
+nebo vezmi  
+dovnitř_
 
-> Když si neumí  
-> sám otevřít“
+_Když si neumí  
+sám otevřít“_
