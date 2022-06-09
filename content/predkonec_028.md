@@ -8,13 +8,13 @@ contentType: prose
 Je to ta s klepety  
 a nedá se vybrat
 
-> Říkáš —  
-> je mi sedmasedmdesát  
-> tátu jsem přežil o rok  
-> tak co chceš
+_Říkáš —  
+je mi sedmasedmdesát  
+tátu jsem přežil o rok  
+tak co chceš_
 
-> Třídíš knihovnu  
-> skenuješ fotky  
-> rozdáváš přístroje
+_Třídíš knihovnu  
+skenuješ fotky  
+rozdáváš přístroje_
 
-> A pak?
+_A pak?_

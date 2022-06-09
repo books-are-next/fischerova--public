@@ -3,19 +3,21 @@ title: ''
 contentType: prose
 ---
 
-_Zdeně_
+> 
+
+> _Zdeně_
 
 Nad láskou  
 prý máš Saturna
 
-> U lůžka se ti však zjevila  
-> ta dávná poztrácená  
-> milá
+_U lůžka se ti však zjevila  
+ta dávná poztrácená  
+milá_
 
-> a zaprosila  
-> Ani hospic  
-> ani eldéenka
+_a zaprosila  
+Ani hospic  
+ani eldéenka_
 
-> Konečně tě má  
-> Oči smutné uplakané —  
-> ale nenaříká
+_Konečně tě má  
+Oči smutné uplakané —  
+ale nenaříká_

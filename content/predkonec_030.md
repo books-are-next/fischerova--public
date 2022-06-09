@@ -9,11 +9,11 @@ Zbývají ti
 oslnivé stavby v slunci  
 jejich nesmrtelný tvar
 
-> Chceš do Řecka
+_Chceš do Řecka_
 
-> Varuj se však  
-> kaktusového pole  
-> Hnízdí v něm přízračné  
-> podoby smrti
+_Varuj se však  
+kaktusového pole  
+Hnízdí v něm přízračné  
+podoby smrti_
 
-> Vnitřnosti zeleně
+_Vnitřnosti zeleně_

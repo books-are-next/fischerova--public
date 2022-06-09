@@ -8,20 +8,20 @@ contentType: prose
 Miloval ji  
 od šestnácti
 
-> Život protancovali v tunelu  
-> podél trati
+_Život protancovali v tunelu  
+podél trati_
 
-> On bývalý  
-> za otce Němce  
-> ona bývalá  
-> ze statku
+_On bývalý  
+za otce Němce  
+ona bývalá  
+ze statku_
 
-> Prolezlou sklerózou  
-> ji nosí na rukou  
-> zdvihá na koně  
-> tlačívá na vozíku
+_Prolezlou sklerózou  
+ji nosí na rukou  
+zdvihá na koně  
+tlačívá na vozíku_
 
-> I ve spánku  
-> ji drží
+_I ve spánku  
+ji drží_
 
-> aby neodešla
+_aby neodešla_

@@ -10,14 +10,14 @@ prosil jeho věrný kůň
 aby mu za službu  
 setnul hlavu
 
-> S krvavou šíjí z jeho ruky  
-> mě nesmířila bílá holubička  
-> která vzlétla zakroužila  
-> a odletěla
+_S krvavou šíjí z jeho ruky  
+mě nesmířila bílá holubička  
+která vzlétla zakroužila  
+a odletěla_
 
-> Až tady  
-> nad tvojí postelí  
-> mě doběhli
+_Až tady  
+nad tvojí postelí  
+mě doběhli_
 
-> princ Bajaja  
-> a jeho kůň
+_princ Bajaja  
+a jeho kůň_

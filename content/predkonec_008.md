@@ -10,16 +10,16 @@ krvavá hora hlav
 a peří  
 těch kteří neulétli
 
-> A je to tu  
-> Spiknutí
+_A je to tu  
+Spiknutí_
 
-> Ti nebeští  
-> kálejí viry  
-> Ti na zemi  
-> je mstivě zobou
+_Ti nebeští  
+kálejí viry  
+Ti na zemi  
+je mstivě zobou_
 
-> Chcípají  
-> jako ti se zakroucenými krky  
-> co nám po statisících  
-> na oplátku zvěstují  
-> smrt
+_Chcípají  
+jako ti se zakroucenými krky  
+co nám po statisících  
+na oplátku zvěstují  
+smrt_

@@ -8,12 +8,12 @@ contentType: prose
 Soumrak v pokoji  
 přebíjí televize
 
-> Za oknem kupé  
-> rychlá tma  
-> finiš tvých posledních  
-> hodin
+_Za oknem kupé  
+rychlá tma  
+finiš tvých posledních  
+hodin_
 
-> S polibkem  
-> na zbroceném čele  
-> Studeném  
-> na mých rtech
+_S polibkem  
+na zbroceném čele  
+Studeném  
+na mých rtech_

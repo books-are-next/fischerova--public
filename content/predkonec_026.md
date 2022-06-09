@@ -10,15 +10,15 @@ jak když se v hrudi
 kulatí zelí  
 nebo kapusta
 
-> Každopádně něco  
-> co se nás netýká  
-> Vždyť býváme jinde
+_Každopádně něco  
+co se nás netýká  
+Vždyť býváme jinde_
 
-> Když potom vykašleme  
-> dvě vlákna čerstvé krve  
-> nestačíme žasnout
+_Když potom vykašleme  
+dvě vlákna čerstvé krve  
+nestačíme žasnout_
 
-> Je tam  
-> mezi plícemi a srdcem  
-> hlávka  
-> nebo co
+_Je tam  
+mezi plícemi a srdcem  
+hlávka  
+nebo co_

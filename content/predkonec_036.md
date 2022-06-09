@@ -8,17 +8,17 @@ contentType: prose
 Světlo stahované nad stůl  
 bylo slabé
 
-> Za kruhem v šeru  
-> až do stěn rostla  
-> obývaná smrt
+_Za kruhem v šeru  
+až do stěn rostla  
+obývaná smrt_
 
-> Věděl jsi  
-> že v noci  
-> sahá po mamince?
+_Věděl jsi  
+že v noci  
+sahá po mamince?_
 
-> Tenkrát  
-> před Štědrým večerem  
-> jsi mě však vytáhl  
-> z úkrytu pod stolem
+_Tenkrát  
+před Štědrým večerem  
+jsi mě však vytáhl  
+z úkrytu pod stolem_
 
-> a sevřel do náručí
+_a sevřel do náručí_

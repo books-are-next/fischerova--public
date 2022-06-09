@@ -11,14 +11,14 @@ zná úlek pádu ze srázu
 a zezadu tupý  
 úder do hlavy
 
-> Volá mi  
-> ať za ní přijdu  
-> do té staroby  
-> kde není s kým mluvit
+_Volá mi  
+ať za ní přijdu  
+do té staroby  
+kde není s kým mluvit_
 
-> Pak se však stydí  
-> že se nedokázala  
-> vyhnout smrti
+_Pak se však stydí  
+že se nedokázala  
+vyhnout smrti_
 
-> a leží  
-> a mlčí
+_a leží  
+a mlčí_

@@ -10,14 +10,14 @@ do klína
 nehybné oči  
 za skly
 
-> Tak vypadají  
-> ty stydké pergamenové  
-> zítřky  
-> a pozítřky
+_Tak vypadají  
+ty stydké pergamenové  
+zítřky  
+a pozítřky_
 
-> s duší co v úleku  
-> hledá v parku na Karláku  
-> náměstí
+_s duší co v úleku  
+hledá v parku na Karláku  
+náměstí_
 
-> Ještě jednou mi řekni —  
-> ať tolik nekouřím
+_Ještě jednou mi řekni —  
+ať tolik nekouřím_

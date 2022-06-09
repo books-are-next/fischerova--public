@@ -7,23 +7,23 @@ contentType: prose
 
 Tak docela nevíme
 
-> Ten stařec  
-> chtěl těžké dveře  
-> otevřít nám
+_Ten stařec  
+chtěl těžké dveře  
+otevřít nám_
 
-> stařena na lavičce  
-> prý kdysi taky tak hezky  
-> chodila
+_stařena na lavičce  
+prý kdysi taky tak hezky  
+chodila_
 
-> vychrtlý pes u popelnice  
-> — než se rozmyslíme —  
-> před námi uteče
+_vychrtlý pes u popelnice  
+— než se rozmyslíme —  
+před námi uteče_
 
-> A co se počítá?
+_A co se počítá?_
 
-> Pokoření — ještě muže  
-> bolest — už ne ženy  
-> zaváhání — beznaděj psa
+_Pokoření — ještě muže  
+bolest — už ne ženy  
+zaváhání — beznaděj psa_
 
-> Nevina na nevinu  
-> od rána do večera
+_Nevina na nevinu  
+od rána do večera_

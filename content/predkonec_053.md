@@ -9,13 +9,13 @@ Naschvál jsem si nevšímala
 jak se vznášíš  
 na podpatcích
 
-> bílá hlava  
-> bílý šál  
-> bílé boty
+_bílá hlava  
+bílý šál  
+bílé boty_
 
-> olepená  
-> srstí nenarozených jehňat
+_olepená  
+srstí nenarozených jehňat_
 
-> a sama už v kleštích  
-> které tě taky vyrvou  
-> ze života
+_a sama už v kleštích  
+které tě taky vyrvou  
+ze života_

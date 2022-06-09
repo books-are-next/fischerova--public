@@ -10,13 +10,13 @@ utonulé maso
 plesnivé nehty  
 jámy úst
 
-> Nespící spící oči
+_Nespící spící oči_
 
-> a život pouštěný do žil  
-> přivazovaných k mříži  
-> fáči
+_a život pouštěný do žil  
+přivazovaných k mříži  
+fáči_
 
-> Nechte ho být  
-> když šmátrá po kanyle!  
-> Je to můj brácha  
-> a už chce pryč
+_Nechte ho být  
+když šmátrá po kanyle!  
+Je to můj brácha  
+a už chce pryč_

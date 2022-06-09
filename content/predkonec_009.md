@@ -7,32 +7,32 @@ contentType: prose
 
 Jako ve škole
 
-> Ti kteří letos postoupí  
-> a jiní  
-> co to mají nahnuté
+_Ti kteří letos postoupí  
+a jiní  
+co to mají nahnuté_
 
-> primusové s děrami v paměti  
-> skokani o holi
+_primusové s děrami v paměti  
+skokani o holi_
 
-> ti kteří tuhnou  
-> a bojí se stropu
+_ti kteří tuhnou  
+a bojí se stropu_
 
-> ti kteří se z toho zastřelí
+_ti kteří se z toho zastřelí_
 
-> ti co je jim to fuk  
-> pokud se doplazí do svojí hospody
+_ti co je jim to fuk  
+pokud se doplazí do svojí hospody_
 
-> ti kteří nemohou  
-> a pro někoho musí
+_ti kteří nemohou  
+a pro někoho musí_
 
-> ti co v noci pláčou  
-> a ve dne nenávidí
+_ti co v noci pláčou  
+a ve dne nenávidí_
 
-> ti se sazeničkami květin
+_ti se sazeničkami květin_
 
-> ti kteří čtou knihy  
-> aby se dověděli
+_ti kteří čtou knihy  
+aby se dověděli_
 
-> a ti  
-> kteří už vědí  
-> a prosí o odpuštění
+_a ti  
+kteří už vědí  
+a prosí o odpuštění_

@@ -9,13 +9,13 @@ Nikdy víc
 vůni jasmínu a trávy  
 oknem
 
-> výskavý smích z chodby  
-> a klapot sandálků
+_výskavý smích z chodby  
+a klapot sandálků_
 
-> těla bříz  
-> v dálce na kopci
+_těla bříz  
+v dálce na kopci_
 
-> Víš ještě  
-> že už nikdy?
+_Víš ještě  
+že už nikdy?_
 
-> Ani to málo
+_Ani to málo_

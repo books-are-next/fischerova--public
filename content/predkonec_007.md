@@ -7,14 +7,14 @@ V moři se vznášejí
 bílé růžové fialové  
 květiny
 
-> Kdo se jich dotkne  
-> najde ve vodě oheň
+_Kdo se jich dotkne  
+najde ve vodě oheň_
 
-> Vržené na suché kameny  
-> poznají jaké to je  
-> být cizí na zemi
+_Vržené na suché kameny  
+poznají jaké to je  
+být cizí na zemi_
 
-> těla bez krve  
-> medúzy  
-> na pláži dlouze utloukané  
-> kovovým lanem
+_těla bez krve  
+medúzy  
+na pláži dlouze utloukané  
+kovovým lanem_

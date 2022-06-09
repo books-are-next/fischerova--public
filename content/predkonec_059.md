@@ -9,12 +9,12 @@ Náhle
 mezi jedním a druhým krokem  
 povstala z bláta zelená tráva
 
-> Kdejaká kostra v zahradách  
-> zas obrůstá
+_Kdejaká kostra v zahradách  
+zas obrůstá_
 
-> Plot se ztrácí  
-> v zlatém dešti
+_Plot se ztrácí  
+v zlatém dešti_
 
-> Učiněné zmrtvýchvstání  
-> Jenom projdeš  
-> dveřmi
+_Učiněné zmrtvýchvstání  
+Jenom projdeš  
+dveřmi_

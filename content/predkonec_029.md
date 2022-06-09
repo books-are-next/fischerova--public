@@ -10,9 +10,9 @@ Smrt ve vlastním těle
 čistém a spořádaném  
 jako byt
 
-> kde ve zdi  
-> vlhne cihla  
-> šíří se houba  
-> roste tíseň
+_kde ve zdi  
+vlhne cihla  
+šíří se houba  
+roste tíseň_
 
-> jíž se nezbavíš
+_jíž se nezbavíš_

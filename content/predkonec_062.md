@@ -8,11 +8,11 @@ contentType: prose
 Hlava dívky  
 na tmě za sklem
 
-> Podivná lebka  
-> s vypouklým čelem
+_Podivná lebka  
+s vypouklým čelem_
 
-> bez něžného obličeje
+_bez něžného obličeje_
 
-> který proděraví  
-> shoří  
-> nebo shnije
+_který proděraví  
+shoří  
+nebo shnije_

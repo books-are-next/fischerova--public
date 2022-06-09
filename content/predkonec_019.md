@@ -9,8 +9,8 @@ Jiná stará
 válčila s rakovinou hrdla  
 a s ouřadama
 
-> aby se kostry za dráty  
-> proměnily v osm koní  
-> (dvě kobyly pošly)
+_aby se kostry za dráty  
+proměnily v osm koní  
+(dvě kobyly pošly)_
 
-> A vyhrála!
+_A vyhrála!_

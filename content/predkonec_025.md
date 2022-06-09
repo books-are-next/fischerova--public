@@ -9,10 +9,10 @@ Jak se otloukají
 polední ptačí zpěvy  
 o bolavá kolena
 
-> I já jsem lítala vysoko  
-> švitorky  
-> a rozdávala se z lásky
+_I já jsem lítala vysoko  
+švitorky  
+a rozdávala se z lásky_
 
-> Taky jsem tenkrát nevěděla  
-> že dole číhají kořeny  
-> a hlína
+_Taky jsem tenkrát nevěděla  
+že dole číhají kořeny  
+a hlína_

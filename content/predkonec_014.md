@@ -9,12 +9,12 @@ Zpívám
 bzučím ti do ucha  
 jako včela
 
-> O jaké sladkosti sníš  
-> když na mne  
-> tak namáhavě  
-> ceníš úsměv
+_O jaké sladkosti sníš  
+když na mne  
+tak namáhavě  
+ceníš úsměv_
 
-> na jazyku nic  
-> nad sebou prázdný čtverec  
-> Živých strop  
-> a hrob
+_na jazyku nic  
+nad sebou prázdný čtverec  
+Živých strop  
+a hrob_

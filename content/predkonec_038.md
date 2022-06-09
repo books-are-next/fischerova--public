@@ -8,15 +8,15 @@ contentType: prose
 Cukroví jsme doma  
 nikdy neměli dost
 
-> V těch krabicích  
-> jsem ti přivezla
+_V těch krabicích  
+jsem ti přivezla_
 
-> tvá linecká kolečka  
-> rohlíčky išelské dortíky  
-> a úly
+_tvá linecká kolečka  
+rohlíčky išelské dortíky  
+a úly_
 
-> Samé máslo a ořechy
+_Samé máslo a ořechy_
 
-> Nechtěla jsem tě zahanbit —  
-> abys mi musel říct  
-> co všechno už nesmíš
+_Nechtěla jsem tě zahanbit —  
+abys mi musel říct  
+co všechno už nesmíš_

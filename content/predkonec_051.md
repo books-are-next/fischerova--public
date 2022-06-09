@@ -10,13 +10,13 @@ volali v Marcianě
 starci na zdi  
 „Signora jak se daří?“
 
-> Odpovídala jsem  
-> „Dobře“  
-> Nebo „Pavel umřel“  
-> Taky „Umřel Josef“
+_Odpovídala jsem  
+„Dobře“  
+Nebo „Pavel umřel“  
+Taky „Umřel Josef“_
 
-> Letos je zídka prázdná  
-> Rozkvetly před ní  
-> dvě kamenné mísy
+_Letos je zídka prázdná  
+Rozkvetly před ní  
+dvě kamenné mísy_
 
-> A nikdo se neptá
+_A nikdo se neptá_

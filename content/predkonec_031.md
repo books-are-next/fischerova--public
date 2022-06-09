@@ -12,9 +12,9 @@ s tvými věčnými atomy
 v nekonečnu  
 bez světla
 
-> Ještě si tě nepodává  
-> temnota?
+_Ještě si tě nepodává  
+temnota?_
 
-> Proč jsi v létě  
-> tak dlouho civěl  
-> na hrob mého psa?
+_Proč jsi v létě  
+tak dlouho civěl  
+na hrob mého psa?_

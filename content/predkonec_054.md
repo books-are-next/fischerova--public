@@ -8,10 +8,10 @@ contentType: prose
 Jak si nás značkuje  
 a škaredí
 
-> potmě sčítaje  
-> komu jsme daly  
-> a komu ne
+_potmě sčítaje  
+komu jsme daly  
+a komu ne_
 
-> ty krásné markytánky  
-> co si tak často pletly  
-> lásku se soucitem
+_ty krásné markytánky  
+co si tak často pletly  
+lásku se soucitem_

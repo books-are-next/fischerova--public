@@ -10,27 +10,27 @@ jsem byla v knize
 o dělení lidí  
 na nelidi
 
-> Za rohem zněly zpěvy  
-> rostla úzkost  
-> ale nikdo jí nevěřil
+_Za rohem zněly zpěvy  
+rostla úzkost  
+ale nikdo jí nevěřil_
 
-> Jen děti  
-> honěné jako krysy  
-> hledaly zoufale skrýš
+_Jen děti  
+honěné jako krysy  
+hledaly zoufale skrýš_
 
-> Do pokoje smrti  
-> jsem vešla  
-> bez nich
+_Do pokoje smrti  
+jsem vešla  
+bez nich_
 
-> Před sebou  
-> okno dokořán  
-> temný vesmír  
-> a hvězdy
+_Před sebou  
+okno dokořán  
+temný vesmír  
+a hvězdy_
 
-> Ještě mě napadlo  
-> proč se tam tak  
-> deru
+_Ještě mě napadlo  
+proč se tam tak  
+deru_
 
-> Lítost  
-> se dostavila  
-> ráno
+_Lítost  
+se dostavila  
+ráno_

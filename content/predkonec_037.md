@@ -9,11 +9,11 @@ Nemohu ti to oplatit
 V té knížce stojí  
 jak umírají děti
 
-> Co vědí  
-> tuší  
-> a kreslí
+_Co vědí  
+tuší  
+a kreslí_
 
-> Co se jim otevírá
+_Co se jim otevírá_
 
-> Neztrať ji  
-> Bude se mi hodit
+_Neztrať ji  
+Bude se mi hodit_

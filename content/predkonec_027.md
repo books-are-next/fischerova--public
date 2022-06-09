@@ -9,44 +9,44 @@ Můžem se dohadovat
 kdo nám do hnízda nasadil  
 vajíčko raka
 
-> co uskřinul sestřenku  
-> a teď jde po tobě
+_co uskřinul sestřenku  
+a teď jde po tobě_
 
-> Byl to ten s citerou  
-> „pošumavský slavík“  
-> co ze sázky přeřízl  
-> slečinku ledovku
+_Byl to ten s citerou  
+„pošumavský slavík“  
+co ze sázky přeřízl  
+slečinku ledovku_
 
-> studenou babičku
+_studenou babičku_
 
-> Ostatně —  
-> jako chlap  
-> nestál za nic
+_Ostatně —  
+jako chlap  
+nestál za nic_
 
-> To o něm řekla krásná paní lesní  
-> se čtyřmi dětmi
+_To o něm řekla krásná paní lesní  
+se čtyřmi dětmi_
 
-> Proč se nevdala po jeho smrti?  
-> — Nechtěla už být nikomu za matraci —
+_Proč se nevdala po jeho smrti?  
+— Nechtěla už být nikomu za matraci —_
 
-> Co na něm měla ráda?  
-> — Ach měl takové hebké kudrnky  
-> nad ušima —
+_Co na něm měla ráda?  
+— Ach měl takové hebké kudrnky  
+nad ušima —_
 
-> Žárlil na ni  
-> když se bavila  
-> výhradně s pány
+_Žárlil na ni  
+když se bavila  
+výhradně s pány_
 
-> vláčel ji za vlasy  
-> kolem myslivny  
-> a ona odcházela do lesa  
-> s jeho psy
+_vláčel ji za vlasy  
+kolem myslivny  
+a ona odcházela do lesa  
+s jeho psy_
 
-> Jednou postřelil laňku  
-> Měla v očích slzy  
-> Od té doby na vysokou  
-> nestřílel
+_Jednou postřelil laňku  
+Měla v očích slzy  
+Od té doby na vysokou  
+nestřílel_
 
-> Umřel v devětapadesáti
+_Umřel v devětapadesáti_
 
-> Víc o něm nevíme
+_Víc o něm nevíme_

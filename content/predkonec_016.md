@@ -10,23 +10,23 @@ se ještě šourá
 ale neví  
 kde je
 
-> Vídá tu toho prvního  
-> co mu z něj šlehal  
-> tenký had —  
-> a ten ji nakapal
+_Vídá tu toho prvního  
+co mu z něj šlehal  
+tenký had —  
+a ten ji nakapal_
 
-> matku která říká  
-> že už jí doma  
-> nesmí na záchod
+_matku která říká  
+že už jí doma  
+nesmí na záchod_
 
-> Od toho druhého  
-> dostala k svátku  
-> zlatý zub
+_Od toho druhého  
+dostala k svátku  
+zlatý zub_
 
-> Ten skočil z mostu
+_Ten skočil z mostu_
 
-> Proč jen jí pořád nosí  
-> ty věci  
-> škeble zuby a oblázky
+_Proč jen jí pořád nosí  
+ty věci  
+škeble zuby a oblázky_
 
-> zrovna dnes v noci
+_zrovna dnes v noci_

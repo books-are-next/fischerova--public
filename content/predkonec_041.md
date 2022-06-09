@@ -8,25 +8,25 @@ contentType: prose
 Chtěl by ses vrátit  
 do dvaceti?
 
-> Ne
+_Ne_
 
-> Ani k Daniele?  
-> Ne
+_Ani k Daniele?  
+Ne_
 
-> Měl bys tam lásku  
-> byl bys zdravý
+_Měl bys tam lásku  
+byl bys zdravý_
 
-> Abych to ještě jednou zkazil  
-> Ne
+_Abych to ještě jednou zkazil  
+Ne_
 
-> Kdybys ale věděl  
-> co víš teď?
+_Kdybys ale věděl  
+co víš teď?_
 
-> Jsem unavený  
-> Ty by ses chtěla —  
-> vrátit?
+_Jsem unavený  
+Ty by ses chtěla —  
+vrátit?_
 
-> Ne  
-> Znám jenom jednoho  
-> co by to bral  
-> Jan Vladislav
+_Ne  
+Znám jenom jednoho  
+co by to bral  
+Jan Vladislav_

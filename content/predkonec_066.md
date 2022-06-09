@@ -8,12 +8,12 @@ contentType: prose
 Taky jsme přibíjeli  
 na dveře psy
 
-> o výročí
+_o výročí_
 
-> že neštěkali  
-> když byl ohrožen Řím
+_že neštěkali  
+když byl ohrožen Řím_
 
-> Tys Pane na kříži  
-> volil Boha
+_Tys Pane na kříži  
+volil Boha_
 
-> Ale ti psi?
+_Ale ti psi?_

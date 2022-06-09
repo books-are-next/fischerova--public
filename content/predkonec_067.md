@@ -9,13 +9,13 @@ Večer před Velkým pátkem
 však dětí sní  
 jak Tě vysvobodí z vězení
 
-> aby Tě nebili  
-> jako koně  
-> co upadl na dláždění
+_aby Tě nebili  
+jako koně  
+co upadl na dláždění_
 
-> Pane dej jim  
-> ať na louce v ráji  
-> potkají toho koně  
-> a taky ty psy
+_Pane dej jim  
+ať na louce v ráji  
+potkají toho koně  
+a taky ty psy_
 
-> Rabboni
+_Rabboni_
