@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 > 
 
 > _Jiřině Topolové_
@@ -13,6 +15,10 @@ něco chce
 
 _Sestra — ještě dítě_
 
+</section>
+
+<section>
+
 _„Máte bolesti?“  
 — — — —  
 „Chcete napít?“  
@@ -22,6 +28,12 @@ _„Máte bolesti?“
 „Vyměnit pleny?“  
 — — — —_
 
+</section>
+
+<section>
+
 _Bere ho za ruku  
 „Chcete poděkovat?“  
 Stařec otvírá ústa_
+
+</section>

@@ -3,7 +3,7 @@ title: ''
 contentType: prose
 ---
 
-  
+<section>
 
 Jiná stará  
 válčila s rakovinou hrdla  
@@ -13,4 +13,10 @@ _aby se kostry za dráty
 proměnily v osm koní  
 (dvě kobyly pošly)_
 
+</section>
+
+<section>
+
 _A vyhrála!_
+
+</section>

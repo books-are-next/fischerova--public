@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 > 
 
 > _Joskovi a Bohunce_
@@ -18,11 +20,25 @@ za hlavou smrt
 v nohou lásku  
 co prosí_
 
+</section>
+
+<section>
+
 _u brány s úzkými dveřmi_
+
+</section>
+
+<section>
 
 _„Vrať mi ho Pane  
 nebo vezmi  
 dovnitř_
 
+</section>
+
+<section>
+
 _Když si neumí  
 sám otevřít“_
+
+</section>

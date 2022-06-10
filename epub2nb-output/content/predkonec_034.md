@@ -3,7 +3,7 @@ title: ''
 contentType: prose
 ---
 
-  
+<section>
 
 Přemýšlíš nebo sníš  
 nad snímkem  
@@ -14,6 +14,12 @@ přineslo další
 a nežalovalo ani s tváří  
 rozťatou prutem_
 
+</section>
+
+<section>
+
 _nemůžeš si vrátit  
 co jsi tak brzy tušil  
 o milosti?_
+
+</section>
