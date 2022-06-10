@@ -3,7 +3,7 @@ title: ''
 contentType: prose
 ---
 
-  
+<section>
 
 Vždycky ses se mnou  
 přel o Boha  
@@ -15,6 +15,12 @@ bez světla
 _Ještě si tě nepodává  
 temnota?_
 
+</section>
+
+<section>
+
 _Proč jsi v létě  
 tak dlouho civěl  
 na hrob mého psa?_
+
+</section>

@@ -3,7 +3,7 @@ title: ''
 contentType: prose
 ---
 
-  
+<section>
 
 Každé léto  
 volali v Marcianě  
@@ -15,8 +15,18 @@ _Odpovídala jsem
 Nebo „Pavel umřel“  
 Taky „Umřel Josef“_
 
+</section>
+
+<section>
+
 _Letos je zídka prázdná  
 Rozkvetly před ní  
 dvě kamenné mísy_
 
+</section>
+
+<section>
+
 _A nikdo se neptá_
+
+</section>

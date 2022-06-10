@@ -3,7 +3,7 @@ title: ''
 contentType: prose
 ---
 
-  
+<section>
 
 To prince Bajaju  
 prosil jeho věrný kůň  
@@ -15,9 +15,19 @@ mě nesmířila bílá holubička
 která vzlétla zakroužila  
 a odletěla_
 
+</section>
+
+<section>
+
 _Až tady  
 nad tvojí postelí  
 mě doběhli_
 
+</section>
+
+<section>
+
 _princ Bajaja  
 a jeho kůň_
+
+</section>

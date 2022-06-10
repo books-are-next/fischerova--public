@@ -3,7 +3,7 @@ title: ''
 contentType: prose
 ---
 
-  
+<section>
 
 Soumrak v pokoji  
 přebíjí televize
@@ -13,7 +13,13 @@ rychlá tma
 finiš tvých posledních  
 hodin_
 
+</section>
+
+<section>
+
 _S polibkem  
 na zbroceném čele  
 Studeném  
 na mých rtech_
+
+</section>
