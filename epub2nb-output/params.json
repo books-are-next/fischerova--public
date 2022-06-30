@@ -37,6 +37,7 @@
         "isSection": true,
         "id": "section-1",
         "listType": "plain",
+        "devoured": false,
         "children": [
           {
             "filename": "predkonec_001.md",
@@ -105,7 +106,7 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hungry": true,
+            "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
             "title": "I.",
@@ -119,7 +120,7 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": true,
+            "devoured": false,
             "hiddenTitle": false,
             "children": []
           },
@@ -131,7 +132,7 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": true,
+            "devoured": false,
             "hiddenTitle": false,
             "children": []
           },
@@ -143,7 +144,7 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": true,
+            "devoured": false,
             "hiddenTitle": false,
             "children": []
           },
@@ -155,7 +156,7 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": true,
+            "devoured": false,
             "hiddenTitle": false,
             "children": []
           },
@@ -167,7 +168,7 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": true,
+            "devoured": false,
             "hiddenTitle": false,
             "children": []
           },
@@ -179,7 +180,7 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": true,
+            "devoured": false,
             "hiddenTitle": false,
             "children": []
           },
@@ -191,7 +192,7 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": true,
+            "devoured": false,
             "hiddenTitle": false,
             "children": []
           },
@@ -203,7 +204,7 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": true,
+            "devoured": false,
             "hiddenTitle": false,
             "children": []
           },
@@ -215,7 +216,7 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": true,
+            "devoured": false,
             "hiddenTitle": false,
             "children": []
           },
@@ -227,7 +228,7 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": true,
+            "devoured": false,
             "hiddenTitle": false,
             "children": []
           },
@@ -239,7 +240,7 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": true,
+            "devoured": false,
             "hiddenTitle": false,
             "children": []
           },
@@ -251,7 +252,7 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": true,
+            "devoured": false,
             "hiddenTitle": false,
             "children": []
           },
@@ -263,7 +264,7 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": true,
+            "devoured": false,
             "hiddenTitle": false,
             "children": []
           },
@@ -275,7 +276,7 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": true,
+            "devoured": false,
             "hiddenTitle": false,
             "children": []
           },
@@ -287,7 +288,7 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": true,
+            "devoured": false,
             "hiddenTitle": false,
             "children": []
           },
@@ -299,7 +300,7 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": true,
+            "devoured": false,
             "hiddenTitle": false,
             "children": []
           },
@@ -311,7 +312,7 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": true,
+            "devoured": false,
             "hiddenTitle": false,
             "children": []
           },
@@ -322,7 +323,7 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hungry": true,
+            "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
             "title": "II.",
@@ -336,7 +337,7 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": true,
+            "devoured": false,
             "hiddenTitle": false,
             "children": []
           },
@@ -348,7 +349,7 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": true,
+            "devoured": false,
             "hiddenTitle": false,
             "children": []
           },
@@ -360,7 +361,7 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": true,
+            "devoured": false,
             "hiddenTitle": false,
             "children": []
           },
@@ -372,7 +373,7 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": true,
+            "devoured": false,
             "hiddenTitle": false,
             "children": []
           },
@@ -384,7 +385,7 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": true,
+            "devoured": false,
             "hiddenTitle": false,
             "children": []
           },
@@ -396,7 +397,7 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": true,
+            "devoured": false,
             "hiddenTitle": false,
             "children": []
           },
@@ -408,7 +409,7 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": true,
+            "devoured": false,
             "hiddenTitle": false,
             "children": []
           },
@@ -420,7 +421,7 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": true,
+            "devoured": false,
             "hiddenTitle": false,
             "children": []
           },
@@ -432,7 +433,7 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": true,
+            "devoured": false,
             "hiddenTitle": false,
             "children": []
           },
@@ -444,7 +445,7 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": true,
+            "devoured": false,
             "hiddenTitle": false,
             "children": []
           },
@@ -456,7 +457,7 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": true,
+            "devoured": false,
             "hiddenTitle": false,
             "children": []
           },
@@ -468,7 +469,7 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": true,
+            "devoured": false,
             "hiddenTitle": false,
             "children": []
           },
@@ -480,7 +481,7 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": true,
+            "devoured": false,
             "hiddenTitle": false,
             "children": []
           },
@@ -492,7 +493,7 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": true,
+            "devoured": false,
             "hiddenTitle": false,
             "children": []
           },
@@ -504,7 +505,7 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": true,
+            "devoured": false,
             "hiddenTitle": false,
             "children": []
           },
@@ -516,7 +517,7 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": true,
+            "devoured": false,
             "hiddenTitle": false,
             "children": []
           },
@@ -528,7 +529,7 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": true,
+            "devoured": false,
             "hiddenTitle": false,
             "children": []
           },
@@ -540,7 +541,7 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": true,
+            "devoured": false,
             "hiddenTitle": false,
             "children": []
           },
@@ -552,7 +553,7 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": true,
+            "devoured": false,
             "hiddenTitle": false,
             "children": []
           },
@@ -564,7 +565,7 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": true,
+            "devoured": false,
             "hiddenTitle": false,
             "children": []
           },
@@ -576,7 +577,7 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": true,
+            "devoured": false,
             "hiddenTitle": false,
             "children": []
           },
@@ -588,7 +589,7 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": true,
+            "devoured": false,
             "hiddenTitle": false,
             "children": []
           },
@@ -599,7 +600,7 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hungry": true,
+            "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
             "title": "III.",
@@ -613,7 +614,7 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": true,
+            "devoured": false,
             "hiddenTitle": false,
             "children": []
           },
@@ -625,7 +626,7 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": true,
+            "devoured": false,
             "hiddenTitle": false,
             "children": []
           },
@@ -637,7 +638,7 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": true,
+            "devoured": false,
             "hiddenTitle": false,
             "children": []
           },
@@ -649,7 +650,7 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": true,
+            "devoured": false,
             "hiddenTitle": false,
             "children": []
           },
@@ -661,7 +662,7 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": true,
+            "devoured": false,
             "hiddenTitle": false,
             "children": []
           },
@@ -673,7 +674,7 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": true,
+            "devoured": false,
             "hiddenTitle": false,
             "children": []
           },
@@ -685,7 +686,7 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": true,
+            "devoured": false,
             "hiddenTitle": false,
             "children": []
           },
@@ -697,7 +698,7 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": true,
+            "devoured": false,
             "hiddenTitle": false,
             "children": []
           },
@@ -709,7 +710,7 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": true,
+            "devoured": false,
             "hiddenTitle": false,
             "children": []
           },
@@ -721,7 +722,7 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": true,
+            "devoured": false,
             "hiddenTitle": false,
             "children": []
           },
@@ -733,7 +734,7 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": true,
+            "devoured": false,
             "hiddenTitle": false,
             "children": []
           },
@@ -745,7 +746,7 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": true,
+            "devoured": false,
             "hiddenTitle": false,
             "children": []
           },
@@ -757,7 +758,7 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": true,
+            "devoured": false,
             "hiddenTitle": false,
             "children": []
           },
@@ -769,7 +770,7 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": true,
+            "devoured": false,
             "hiddenTitle": false,
             "children": []
           },
@@ -781,7 +782,7 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": true,
+            "devoured": false,
             "hiddenTitle": false,
             "children": []
           },
@@ -793,7 +794,7 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": true,
+            "devoured": false,
             "hiddenTitle": false,
             "children": []
           },
@@ -804,7 +805,7 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hungry": true,
+            "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
             "title": "IV.",
@@ -818,7 +819,7 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": true,
+            "devoured": false,
             "hiddenTitle": false,
             "children": []
           },
@@ -830,7 +831,7 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": true,
+            "devoured": false,
             "hiddenTitle": false,
             "children": []
           },
@@ -842,7 +843,7 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": true,
+            "devoured": false,
             "hiddenTitle": false,
             "children": []
           },
@@ -858,8 +859,7 @@
             "hiddenTitle": false,
             "children": []
           }
-        ],
-        "devoured": false
+        ]
       }
     ]
   },
@@ -1345,6 +1345,6 @@
       "user": "books-are-next",
       "repo": "fischerova-predkonec"
     },
-    "generatedAt": 1656571858581
+    "generatedAt": 1656573005884
   }
 }
