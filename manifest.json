@@ -8,8 +8,8 @@
   "edition": "poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "fischerova-predkonec-0a16515",
-  "revision": "0a16515",
+  "identifier": "fischerova-predkonec-77df142",
+  "revision": "77df142",
   "readingOrder": [
     "promo.html",
     "predkonec_005.html",
@@ -75,11 +75,11 @@
     "predkonec_065.html",
     "predkonec_066.html",
     "predkonec_067.html",
-    "colophon.html"
+    "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jun 30 2022 07:11:39 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1656573099907
+    "date": "Thu Jul 07 2022 08:23:09 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1657182189879
   },
   "documents": [
     {
@@ -1343,7 +1343,7 @@
       "role": "chapter",
       "order": 63,
       "prev": "predkonec_066.html",
-      "next": "colophon.html",
+      "next": "about.html",
       "toc": [
         {
           "index": 0,
@@ -1356,11 +1356,11 @@
     },
     {
       "title": "Tiráž",
-      "file": "colophon.html",
+      "file": "about.html",
       "words": 132,
-      "chars": 867,
+      "chars": 866,
       "ideas": 16,
-      "role": "colophon",
+      "role": "about",
       "order": null,
       "prev": "predkonec_067.html",
       "next": null,
@@ -1378,7 +1378,7 @@
   "totals": {
     "all": {
       "words": 2473,
-      "chars": 12444,
+      "chars": 12443,
       "ideas": 787
     },
     "chapters": {

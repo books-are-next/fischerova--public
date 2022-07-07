@@ -67,7 +67,7 @@
             "filename": "predkonec_003.md",
             "xhtml": "predkonec_003.xhtml",
             "id": 2,
-            "role": "colophon",
+            "role": "about",
             "listType": "plain",
             "inToc": false,
             "hungry": false,
@@ -79,7 +79,7 @@
             "filename": "predkonec_004.md",
             "xhtml": "predkonec_004.xhtml",
             "id": 3,
-            "role": "colophon",
+            "role": "about",
             "listType": "plain",
             "inToc": false,
             "hungry": false,
@@ -851,7 +851,7 @@
             "filename": "predkonec_068.md",
             "xhtml": "predkonec_068.xhtml",
             "id": 67,
-            "role": "colophon",
+            "role": "about",
             "listType": "plain",
             "inToc": false,
             "hungry": false,
@@ -1345,6 +1345,6 @@
       "user": "books-are-next",
       "repo": "fischerova-predkonec"
     },
-    "generatedAt": 1656573005884
+    "generatedAt": 1657181848011
   }
 }
