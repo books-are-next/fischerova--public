@@ -78,7 +78,7 @@ readingOrder:
   - predkonec_065.html
   - predkonec_066.html
   - predkonec_067.html
-  - colophon.html
+  - about.html
 tocBase:
   - id: section-1
     children:
