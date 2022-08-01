@@ -13,6 +13,7 @@ meta:
   edition: poezie
   publisherShort: mkp
   contentType: poetry
+  isbn: 978-80-274-1797-1
 readingOrder:
   - promo.html
   - predkonec_005.html
