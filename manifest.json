@@ -8,8 +8,8 @@
   "edition": "poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "fischerova-predkonec-38a53e6",
-  "revision": "38a53e6",
+  "identifier": "fischerova-predkonec-949a0a3",
+  "revision": "949a0a3",
   "readingOrder": [
     "promo.html",
     "predkonec_005.html",
@@ -78,8 +78,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Mon Aug 01 2022 14:02:39 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1659362559582
+    "date": "Thu Sep 29 2022 21:22:19 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664486539806
   },
   "documents": [
     {
@@ -1358,7 +1358,7 @@
       "title": "Tiráž",
       "file": "about.html",
       "words": 136,
-      "chars": 903,
+      "chars": 904,
       "ideas": 17,
       "role": "about",
       "order": null,
@@ -1378,7 +1378,7 @@
   "totals": {
     "all": {
       "words": 2477,
-      "chars": 12480,
+      "chars": 12481,
       "ideas": 788
     },
     "chapters": {
