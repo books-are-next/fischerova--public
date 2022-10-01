@@ -8,8 +8,8 @@
   "edition": "poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "fischerova-predkonec-949a0a3",
-  "revision": "949a0a3",
+  "identifier": "fischerova-predkonec-1e40755",
+  "revision": "1e40755",
   "readingOrder": [
     "promo.html",
     "predkonec_005.html",
@@ -78,8 +78,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Sep 29 2022 21:22:19 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664486539806
+    "date": "Sat Oct 01 2022 15:48:48 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664639328445
   },
   "documents": [
     {
